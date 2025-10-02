@@ -5,6 +5,22 @@
 🌍 From Bangladesh | Living in Kunming, China  
 
 ---
+<div align="center">
+
+# 👋🏼 Hi there! I'm Rabby 
+
+<!--- <br>👋🏼 Welcome to my GitHub portfolio! --->
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&weight=600&size=20&duration=5000&pause=1000&width=1000&height=30&center=true&vCenter=true&lines=AI+Engineer+%7C+Machine+Learning+%7C+Deep+Learning;Bachelor's+in+Artificial+Intelligence+@+Yunnan+University;Python%2C+TensorFlow%2C+PyTorch%2C+Scikit-learn%2C+OpenCV;Building+AI+Projects+%26+Smart+Farming+Solutions;Passionate+About+Data+Science%2C+IoT%2C+and+MLOps)](https://git.io/typing-svg)
+
+
+<!---
+
+I'm a freelancer with a background that spans diverse fields, including **Full-stack Software Development** (Current Focus), **Data Analytics**, **Data Science** (AI/ML), **Social Media Management**, **Music Production**, and **Video Editing**.
+
+--->
+
+</div>
 
 ## 🚀 Tech & Tools I Work With
 <p align="center">
