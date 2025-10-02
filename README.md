@@ -1,35 +1,33 @@
-# 👋 Hi there, I'm Rabby  
+<!-- Typing Animation Banner -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&weight=600&size=20&duration=5000&pause=1000&width=1000&height=30&center=true&vCenter=true&lines=AI+Engineer+%7C+Machine+Learning+%7C+Deep+Learning;Bachelor's+in+Artificial+Intelligence+@+Yunnan+University;Python%2C+TensorFlow%2C+PyTorch%2C+Scikit-learn%2C+OpenCV;Building+AI+Projects+%26+Smart+Farming+Solutions;Passionate+About+Data+Science%2C+IoT%2C+and+MLOps)](https://git.io/typing-svg)
 
-🎓 AI Engineering Student @ Yunnan University (Class of 2027)  
-🤖 Passionate about **Artificial Intelligence, Machine Learning, and Data Science**  
+---
+
+# 👋 Hi there, I'm [Your Name]
+
+🎓 Bachelor's in **Artificial Intelligence** @ Yunnan University (2023–2027)  
+🤖 Passionate about **Machine Learning, Deep Learning, NLP, and Smart Farming AI**  
 🌍 From Bangladesh | Living in Kunming, China  
 
 ---
-<div align="center">
 
-# 👋🏼 Hi there! I'm Rabby 
+## 🚀 Skills & Tools
 
-<!--- <br>👋🏼 Welcome to my GitHub portfolio! --->
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&weight=600&size=20&duration=5000&pause=1000&width=1000&height=30&center=true&vCenter=true&lines=AI+Engineer+%7C+Machine+Learning+%7C+Deep+Learning;Bachelor's+in+Artificial+Intelligence+@+Yunnan+University;Python%2C+TensorFlow%2C+PyTorch%2C+Scikit-learn%2C+OpenCV;Building+AI+Projects+%26+Smart+Farming+Solutions;Passionate+About+Data+Science%2C+IoT%2C+and+MLOps)](https://git.io/typing-svg)
-
-
-<!---
-
-I'm a freelancer with a background that spans diverse fields, including **Full-stack Software Development** (Current Focus), **Data Analytics**, **Data Science** (AI/ML), **Social Media Management**, **Music Production**, and **Video Editing**.
-
---->
-
-</div>
-
-## 🚀 Tech & Tools I Work With
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,scikit-learn,opencv,javascript,vue,django,mongodb,mysql,linux,docker,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,javascript,vue,django,mongodb,mysql,linux,docker,git,github,vscode" />
 </p>
+
+- **Programming:** Python, JavaScript, TypeScript  
+- **AI/ML:** TensorFlow, PyTorch, Scikit-learn, OpenCV, Pandas, NumPy  
+- **Frontend:** Vue.js, HTMX, Bootstrap, Tailwind  
+- **Backend:** Django, Flask, Node.js, FastAPI  
+- **Databases:** MongoDB, MySQL, SQLite, Firebase  
+- **Other:** Git, Docker, Linux, IoT (ESP32, Sensors)  
 
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=radical" height="180"/>
@@ -38,23 +36,31 @@ I'm a freelancer with a background that spans diverse fields, including **Full-s
 ---
 
 ## 🔬 Current Focus
-- 🌱 Learning **Deep Learning & NLP**
-- 🧑‍💻 Building projects with **PyTorch, TensorFlow, Scikit-learn**
-- 📡 Exploring **IoT + AI for Smart Farming**
-- 📊 Interested in **Data Visualization & MLOps**
+- 🌱 Exploring **Deep Learning & Natural Language Processing (NLP)**  
+- 🧑‍💻 Building **AI-powered IoT Projects** for Smart Farming  
+- 📊 Learning **MLOps & Data Engineering**  
+- 🤝 Collaborating on **Open Source AI Projects**  
 
 ---
 
-## 🏆 Projects
-- 🌿 **Smart Farming Dashboard** (Vue + ESP32 + Firebase + AI predictions)  
-- 🧠 **Iris Flower Classifier** (kNN, Streamlit)  
-- 📈 **AI-powered E-commerce Agents** (Automation with Twilio + OpenAI)  
+## 🏆 Featured Projects
+
+- 🌿 **Smart Farming Dashboard** → IoT sensors + AI predictions (Vue.js + ESP32 + Firebase)  
+- 🧠 **Iris Flower Classifier** → Streamlit app with kNN model  
+- 🤖 **AI-powered E-commerce Agent** → Automation using Twilio + OpenAI  
+- 📡 **Live Location Tracker** → Vue.js + Realtime Database  
 
 ---
 
-## 📫 Connect with Me
+## 📫 Connect with Me  
+
 <p align="center">
   <a href="https://linkedin.com/in/YOURUSERNAME"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"/></a>
   <a href="mailto:YOURMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/YOURUSERNAME"><img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white"/></a>
+  <a href="https://instagram.com/YOURUSERNAME"><img src="https://img.shields.io/badge/Instagram-purple?logo=instagram&logoColor=white"/></a>
 </p>
+
+---
+
+⭐️ From [Your Name](https://github.com/YOURUSERNAME)
