@@ -1,7 +1,7 @@
 
 ---
 
-# 👋 Hi there, I'm [Your Name]
+# 👋 Hi there, I'm Rabby (拉比)
 
 🎓 Bachelor's in **Artificial Intelligence** @ Yunnan University (2023–2027)  
 🤖 Passionate about **Machine Learning, Deep Learning, NLP, and Smart Farming AI**  
