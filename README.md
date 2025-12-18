@@ -1,3 +1,4 @@
+![MasterHead](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
 ---
 
@@ -5,7 +6,11 @@
 
 🎓 Bachelor's in **Artificial Intelligence** @ Yunnan University (2023–2027)  
 🤖 Passionate about **Machine Learning, Deep Learning, NLP, and Smart Farming AI**  
-🌍 From Bangladesh | Living in Kunming, China  
+🌍 From Bangladesh | Living in Kunming, China
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shudipto-creator&label=Profile%20views&color=0e75b6&style=flat" alt="Shudipto-creator" />
+</p>
 
 ---
 <!-- Typing Animation Banner -->
