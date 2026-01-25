@@ -20,7 +20,7 @@
 ## 🚀 Skills & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,javascript,vue,django,mongodb,mysql,linux,docker,git,github,vscode,pycharm,Pandas,NumPy" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,javascript,vue,django,mongodb,mysql,linux,docker,git,github,vscode,pycharm,pandas,numpy" />
 </p>
 
 - **Programming:** Python, C, C++, JavaScript, TypeScript, Html, Css 
