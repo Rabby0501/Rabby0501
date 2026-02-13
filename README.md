@@ -2,7 +2,7 @@
 
 ---
 
-# 👋 Hi there, I'm Rabby (拉比)
+# Hi there, I'm Rabby (拉比)
 
 🎓 Bachelor's in **Artificial Intelligence** @ Yunnan University (2023–2027)  
 🤖 Passionate about **Machine Learning, Deep Learning, NLP, and Smart Farming AI**  
@@ -62,7 +62,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/golam-rabby-21b6273a6/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:YOURMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white"/></a>
+  <a href="mailto:golamrabby213@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/Rabby0501"><img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white"/></a>
   <a href="https://instagram.com/YOURUSERNAME"><img src="https://img.shields.io/badge/Instagram-purple?logo=instagram&logoColor=white"/></a>
 </p>
