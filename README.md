@@ -23,7 +23,7 @@
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,javascript,vue,django,mongodb,mysql,linux,docker,git,github,vscode,pycharm,flask,fastapi,gitlab,anaconda,ubuntu,matlab,md,nodejs,c,cpp,html,java,jenkins,arch" />
 </p>
 
-- **Programming:** Python, C, C++, JavaScript, TypeScript, Html, Css 
+- **Programming:** Python, C, C++, JavaScript, Html, Css 
 - **AI/ML:** TensorFlow, PyTorch, Scikit-learn, OpenCV, Pandas, NumPy  
 - **Frontend:** Vue.js, HTMX, Bootstrap, Tailwind  
 - **Backend:** Django, Flask, Node.js, FastAPI  
