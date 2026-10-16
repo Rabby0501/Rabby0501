@@ -5,7 +5,7 @@
 # Hi there, I'm Rabby (拉比)
 
 🎓 Bachelor's in **Artificial Intelligence** @ Yunnan University (2023–2027)  
-🤖 Passionate about **Machine Learning, Deep Learning, NLP, Computer Vision, and Smart Farming AI**  
+🤖 Passionate about **Machine Learning, Deep Learning, NLP, Computer Vision, Medical Imaging, AI in Healthcare, Data Science, and Smart Farming AI**  
 🌍 From Bangladesh | Living in Kunming, China
 
 <p align="center">
@@ -45,7 +45,8 @@
 - 🌱 Exploring **Deep Learning & Natural Language Processing (NLP)**  
 - 🧑‍💻 Building **AI-powered IoT Projects** for Smart Farming  
 - 📊 Learning **MLOps & Data Engineering**  
-- 🤝 Collaborating on **Open Source AI Projects**  
+- 🤝 Collaborating on **Open Source AI Projects**
+- 🧠 AI in Healthcare **Medical Imaging (Brain Tumor, X-Ray, Ultrasound, Disease, etc.)**
 
 ---
 
