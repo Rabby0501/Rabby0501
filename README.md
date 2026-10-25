@@ -1,74 +1,69 @@
-![MasterHead](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1b1f3b&height=180&section=header&text=MD%20Golam%20Rabby&fontSize=42&fontColor=ffffff&desc=AI%20Engineer%20%7C%20Data%20Scientist&descSize=18&descAlignY=65" alt="MD Golam Rabby" />
+</p>
 
----
+# Hi there, I'm MD Golam Rabby (Rabby / 拉比)
 
-# Hi there, I'm Rabby (拉比)
-
-🎓 Bachelor's in **Artificial Intelligence** @ Yunnan University (2023–2027)  
-🤖 Passionate about **Machine Learning, Deep Learning, NLP, Computer Vision, Medical Imaging, AI in Healthcare, Data Science, and Smart Farming AI**  
+🎓 Final-year Bachelor's student in **Artificial Intelligence** @ Yunnan University (2023–2027)  
+🤖 Interested in **Machine Learning, Deep Learning, NLP, Computer Vision, Medical Imaging, and AI in Healthcare**  
 🌍 From Bangladesh | Living in Kunming, China
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rabby0501&label=Profile%20views&color=0e75b6&style=flat" alt="Rabby0501" />
+  <img src="https://komarev.com/ghpvc/?username=Rabby0501&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
----
-<!-- Typing Animation Banner -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&weight=600&size=20&duration=5000&pause=1000&width=1000&height=30&center=true&vCenter=true&lines=AI+Engineer+%7C+Machine+Learning+%7C+Deep+Learning;Bachelor's+in+Artificial+Intelligence+@+Yunnan+University;Python%2C+TensorFlow%2C+PyTorch%2C+Scikit-learn%2C+OpenCV;Building+AI+Projects+%26+Smart+Farming+Solutions;Passionate+About+Data+Science%2C+IoT%2C+and+MLOps)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&weight=600&size=20&duration=5000&pause=1000&width=1000&height=30&center=true&vCenter=true&lines=AI+Engineer+%7C+Data+Scientist;Bachelor's+in+Artificial+Intelligence+@+Yunnan+University;Python%2C+PyTorch%2C+TensorFlow%2C+Scikit-learn%2C+OpenCV;NLP%2C+Computer+Vision+%26+Healthcare+AI)](https://git.io/typing-svg)
 
+---
 
 ## 🚀 Skills & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,javascript,vue,django,mongodb,mysql,linux,docker,git,github,vscode,pycharm,flask,fastapi,gitlab,anaconda,ubuntu,matlab,md,nodejs,c,cpp,html,java,jenkins,arch,npm" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,c,cpp,js,html,css,vue,django,fastapi,mysql,sqlite,firebase,docker,git,github,linux,ubuntu,md&perline=11" />
 </p>
 
-- **Programming:** Python, C, C++, JavaScript, Html, Css 
-- **AI/ML:** TensorFlow, PyTorch, Scikit-learn, OpenCV, Pandas, NumPy  
-- **Frontend:** Vue.js, HTMX, Bootstrap, Tailwind  
-- **Backend:** Django, Flask, Node.js, FastAPI  
-- **Databases:** MongoDB, MySQL, SQLite, Firebase  
-- **Other:** Git, Docker, Linux, IoT (ESP32, Sensors)  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rabby0501&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rabby0501&layout=compact&theme=radical" height="160"/>
-</p> 
+- **Languages:** Python, C, C++, JavaScript, HTML, CSS
+- **AI / ML:** PyTorch, TensorFlow / Keras, Scikit-learn, XGBoost, OpenCV, Hugging Face Transformers, Pandas, NumPy
+- **Web & Apps:** Vue.js, Django, FastAPI, Streamlit
+- **Data & Storage:** MySQL, SQLite, Firebase, ChromaDB
+- **Tools:** Git, Docker, Linux (Ubuntu), CVAT
+- **Hardware:** ESP32 and sensors (IoT)
 
 ---
 
 ## 🔬 Current Focus
-- 🌱 Exploring **Deep Learning & Natural Language Processing (NLP)**  
-- 🧑‍💻 Building **AI-powered IoT Projects** for Smart Farming  
-- 📊 Learning **MLOps & Data Engineering**  
-- 🤝 Collaborating on **Open Source AI Projects**
-- 🧠 AI in Healthcare **Medical Imaging (Brain Tumor, X-Ray, Ultrasound, Disease, etc.)**
+
+- 🎓 Graduation internship and thesis at Yunnan University
+- 🧠 **Brain MRI object detection** on a Bangladeshi MRI dataset (COCO-format boxes annotated in CVAT). *In progress, no results yet; research demo, not clinically validated.*
+- 📚 Deep learning and NLP: comparing recurrent models (RNN / LSTM / GRU) for sentiment analysis
+- 🚢 Learning MLOps and deployment (Docker, Vercel, Render)
 
 ---
 
 ## 🏆 Featured Projects
 
-- 🌿 **Smart Farming Dashboard** → IoT sensors + AI predictions (Vue.js + ESP32 + Firebase)  
-- 🧠 **Iris Flower Classifier** → Streamlit app with kNN model  
-- 🤖 **AI-powered E-commerce Agent** → Automation using Twilio + OpenAI  
-- 📡 **Live Location Tracker** → Vue.js + Realtime Database  
+| Project | What it is | Stack | Status |
+|---|---|---|---|
+| [DeepSentiment](https://github.com/Rabby0501/DeepSentiment) | Full-stack web app for binary sentiment analysis with side-by-side RNN / LSTM / GRU comparison | Vue, FastAPI, TensorFlow, GloVe, Docker | In Progress |
+| [Sentiment-Analysis-RNN-LSTM-GRU](https://github.com/Rabby0501/Sentiment-Analysis-RNN-LSTM-GRU) | Comparative study of Simple RNN, LSTM and GRU on Twitter sentiment with GloVe embeddings | Python, TensorFlow / Keras | Research Demo |
+| [NLP-Intelligence-Hub](https://github.com/Rabby0501/NLP-Intelligence-Hub) | Multi-model NLP system: sentiment, semantic search, summarization, image captioning | FastAPI, Streamlit, ChromaDB, Hugging Face, Docker | Prototype |
+| [ai_healthcare_chatbot](https://github.com/Rabby0501/ai_healthcare_chatbot) | Symptom-based disease prediction chatbot (educational use only, not medical advice) | Python, Scikit-learn, Streamlit | Prototype |
+| [advanced_diabetes_dashboard](https://github.com/Rabby0501/advanced_diabetes_dashboard) | Diabetes prediction dashboard comparing five ML models, with PDF report export | Streamlit, Scikit-learn, XGBoost | Prototype |
+| [research-proposal-agentic-app](https://github.com/Rabby0501/research-proposal-agentic-app) | Web front end for a multi-agent research-proposal workflow built in Dify, with live progress diagram | JavaScript, serverless proxy | Prototype |
+| [iris-classification](https://github.com/Rabby0501/iris-classification) | Iris classification experiment: scaling, GridSearchCV tuning, confusion matrix | Python, Scikit-learn | Coursework |
+
+**Also working on (private repositories):** a fruit ripeness and defect grading classifier with Grad-CAM (course project, PyTorch), and Lumière Beauty, an e-commerce site for Bangladesh (Django + Vue, in development).
 
 ---
 
-## 📫 Connect with Me  
+## 📫 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/golamrabby05/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"/></a>
   <a href="mailto:golamrabby213@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/Rabby0501"><img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white"/></a>
-  <a href="https://instagram.com/"><img src="https://img.shields.io/badge/Instagram-purple?logo=instagram&logoColor=white"/></a>
 </p>
 
 ---
 
-
-⭐️ From [RABBY](https://github.com/Rabby0501)
+⭐️ From [Rabby](https://github.com/Rabby0501)
