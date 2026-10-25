@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1b1f3b&height=180&section=header&text=MD%20Golam%20Rabby&fontSize=42&fontColor=ffffff&desc=AI%20Engineer%20%7C%20Data%20Scientist&descSize=18&descAlignY=65" alt="MD Golam Rabby" />
 </p>
 
-# Hi there, I'm MD Golam Rabby (Rabby / 拉比)
+# Hi there, I'm MD Golam Rabby 拉比
 
 🎓 Final-year Bachelor's student in **Artificial Intelligence** @ Yunnan University (2023–2027)  
 🤖 Interested in **Machine Learning, Deep Learning, NLP, Computer Vision, Medical Imaging, and AI in Healthcare**  
